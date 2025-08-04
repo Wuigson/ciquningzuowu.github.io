@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "rspress": "^1.45.0"
+  },
+  "scripts": {
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview"
+  }
+}
