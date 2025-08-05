@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 介绍
-      link: /zh/guide/introduction
+      link: /
     - theme: alt
       text: 快速开始
-      link: /zh/guide/getting-started
+      link: /
   image:
       src: /favicon.ico
       alt: Logo
