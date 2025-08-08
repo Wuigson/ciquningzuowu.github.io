@@ -1,1 +1,1 @@
-https://ciquningzuowu.github.io/index.html
+https://ciquningzuowu.github.io/
