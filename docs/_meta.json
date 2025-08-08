@@ -1,0 +1,8 @@
+[
+  { "text": "首页", "link": "/" },
+  { "text": "人工智能", "link": "/ai/" },
+  { "text": "算法竞赛", "link": "/algo/" },
+  { "text": "前后端", "link": "/web/" },
+  { "text": "嵌入式", "link": "/embedded/" }
+
+]
