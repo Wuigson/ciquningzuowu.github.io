@@ -16,7 +16,7 @@
 
 使用 vscode 打开下载到的目录，打开 vscode 终端运行 `pnpm install`（可能会因为 powershell 阻止运行脚本报错，可自行查阅怎么解决），然后按指示运行即可在本地构建静态网站。
 
-### （1）配置 Git 用户信息
+### 配置 Git 用户信息
 
 在终端运行以下命令：git config user.name （github用户名）和git config user.email （github邮箱）
 
