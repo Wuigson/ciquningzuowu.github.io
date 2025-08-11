@@ -1,5 +1,7 @@
 # 贡献指南
 
+**我们建议和希望您在贡献文档前浏览一下[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)**
+
 **需要准备的配置：node 环境，vscode，Git**
 
 ## 1. **Fork 源仓库代码**
