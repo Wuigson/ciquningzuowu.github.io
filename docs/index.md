@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: 快速开始
       link: /
+    - theme: brand
+      text: 贡献指南
+      link: /contribution
   image:
       src: /favicon.ico
       alt: Logo
