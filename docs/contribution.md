@@ -1,4 +1,4 @@
-### 需要准备的配置：node 环境，vscode
+### 需要准备的配置：node 环境，vscode，Git
 
 ---
 
