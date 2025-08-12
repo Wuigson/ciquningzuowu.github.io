@@ -43,5 +43,4 @@
 
 使用 github 仓库界面的贡献创建拉取请求，仓库管理员通过后即可将更改应用到源仓库。
 ## **提交规范**
-![Git提交规范](./public/Git-Commit-Guidelines.png)
-![](https://raw.githubusercontent.com/ciquningzuowu/ciquningzuowu.github.io/main/docs/public/Git提交规范.png)
+![Git提交规范](https://raw.githubusercontent.com/ciquningzuowu/ciquningzuowu.github.io/main/docs/public/Git提交规范.png)
