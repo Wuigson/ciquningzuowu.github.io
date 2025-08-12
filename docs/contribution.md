@@ -11,7 +11,7 @@
 
 ## 2. **Clone 代码到本地**
 
-先进入到期望的目录下，然后使用 cmd 运行 `git clone （仓库地址）` 将代码 clone 到本地（记得用 `git config --global http.proxy http://(代理地址)` 换成梯子线下载），后续可使用github的【sync fork】或在vscode中获取源仓库更新内容。
+先进入到期望的目录下，然后使用 cmd 运行 `git clone （仓库地址）` 将代码 clone 到本地（记得用 `git config --global https.proxy http://(代理地址)` 换成梯子线下载），后续可使用github的【sync fork】或在vscode中获取源仓库更新内容。
 
 ## 3. **本地浏览**
 
