@@ -38,6 +38,7 @@
 ## 5. **同步到远程仓库**
 
 使用源代码管理中的推送将本地仓库同步到远程仓库中（github）。
+![](https://raw.githubusercontent.com/ciquningzuowu/ciquningzuowu.github.io/main/docs/publicGit提交规范.png)
 
 ## 6. **创建拉取请求**
 
