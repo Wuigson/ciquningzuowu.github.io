@@ -28,9 +28,9 @@
 ### 完成提交
 
 提交后会一直处于加载状态，需要在vscode终端依次输入
-git add .
-git commit -m "（修复了XX问题）"
-git push origin main
+【git add .】
+【git commit -m "（修复了XX问题）"】
+【git push origin main】
 或
 取消vscode的@builtin git功能
 即可完成提交
@@ -42,4 +42,4 @@ git push origin main
 ## 6. **创建拉取请求**
 
 使用 github 仓库界面的贡献创建拉取请求，仓库管理员通过后即可将更改应用到源仓库。
-![提交规范](./images/Git提交规范.png)
+![提交规范](./public/Git提交规范.png)
