@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 介绍
-      link: /
+      link: /introduction
     - theme: alt
       text: 快速开始
       link: /
